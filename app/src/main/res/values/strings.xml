@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="titulo1">Te damos la </string>
+    <string name="titulo2"> bienvenida a </string>
+    <string name="titulo3"> Messenger</string>
+    <string name="subtitulo">Gracias por instalar Messenger. Ahora  puedes </string>
+    <string name="subtitulo1">iniciar la configuración.</string>
+    <string name="numero">+591</string>
+    <string name="number">Correo electrónico o teléfono</string>
+    <string name="contgraseña">Contraseña</string>
+    <string name="boton">CONTINUAR</string>
+    <string name="desc">¿NO TIENES CUENTA EN FACEBOOK?</string>
+
+</resources>
